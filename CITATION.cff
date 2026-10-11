@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the paper."
+title: "SoK: Coordination Among Mutually Untrusting, Independently Developed AI Agents in Cloud Data Ecosystems"
+authors:
+  - family-names: Khairnar
+    given-names: Sushil
+    affiliation: Virginia Tech
+    email: sushilkhairnar84@gmail.com
+date-released: 2026-10-11
+version: "1.0"
+license: MIT

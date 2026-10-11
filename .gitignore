@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+paper/latex/*.aux
+paper/latex/*.log
+paper/latex/*.blg
+paper/latex/*.bbl
+paper/latex/*.out

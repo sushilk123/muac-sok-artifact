@@ -1,0 +1,1702 @@
+[
+ {
+  "key": "stone2010adhoc",
+  "work": "Ad Hoc Autonomous Agent Teams",
+  "year": "2010",
+  "R": [
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "learned conventions (AHT problem def.)",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "none (position paper; proposes eval paradigm)",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "mirsky2022survey",
+  "work": "Survey of Ad Hoc Teamwork Research",
+  "year": "2022",
+  "R": [
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "learned conventions (AHT)",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "n/a (survey)",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "hu2020otherplay",
+  "work": "Other-Play",
+  "year": "2020",
+  "R": [
+   "●",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "learned conventions (ZSC)",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "cross-play (independently trained) + human-in-the-loop",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "carroll2019overcooked",
+  "work": "Overcooked-AI (Utility of Learning about Humans)",
+  "year": "2019",
+  "R": [
+   "●",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "learned conventions",
+  "B": "multiple cooperative principals (human–AI)",
+  "C": "n/a",
+  "D": "self-play vs. human model + human-in-the-loop",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "strouse2021fcp",
+  "work": "Fictitious Co-Play",
+  "year": "2021",
+  "R": [
+   "●",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "learned conventions (ZSC)",
+  "B": "multiple cooperative principals (human–AI)",
+  "C": "n/a",
+  "D": "cross-play (novel agents) + human-in-the-loop",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "wang2024naht",
+  "work": "N-Agent Ad Hoc Teamwork (POAM)",
+  "year": "2024",
+  "R": [
+   "●",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "learned conventions (NAHT)",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "cross-play (OOD unseen teammates)",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "wang2025matnaht",
+  "work": "Sequence Modeling for NAHT (MAT-NAHT)",
+  "year": "2025",
+  "R": [
+   "●",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "learned conventions (NAHT)",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "cross-play (unseen teammates)",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "wang2025shapley",
+  "work": "Shapley Machine for NAHT",
+  "year": "2025",
+  "R": [
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "learned conventions (NAHT, coop. game theory)",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "unclear from abstract",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "bard2020hanabi",
+  "work": "The Hanabi Challenge",
+  "year": "2019",
+  "R": [
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "learned conventions",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "self-play; ad hoc framework proposed",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "zhang2024proagent",
+  "work": "ProAgent",
+  "year": "2023",
+  "R": [
+   "●",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated (LLM planning)",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "cross-play (AI partners) + human proxy models",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "agashe2023llmcoord",
+  "work": "LLM-Coordination",
+  "year": "2023",
+  "R": [
+   "●",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "cross-play (ZSC experiments)",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "shi2023avalon",
+  "work": "Cooperation on the Fly (Avalon AHT)",
+  "year": "2023",
+  "R": [
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "unclear from abstract",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "liu2024heteroaht",
+  "work": "LLM for Heterogeneous AHT Collaboration",
+  "year": "2024",
+  "R": [
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated (LLM planner)",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "benchmark with varied teams + physical robots",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "wallace2025recollab",
+  "work": "ReCollab",
+  "year": "2025",
+  "R": [
+   "◐",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated (LLM teammate modeling)",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "teammate types in Overcooked (protocol unclear)",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "hayler2026zsc",
+  "work": "Zero-Shot Coordination among LLM Agents",
+  "year": "2026",
+  "R": [
+   "●",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "cross-play across 5 vendors (XP_LLM) + XP_seed (full text read)",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "qu2026riskaversion",
+  "work": "Strategic Risk Aversion",
+  "year": "2026",
+  "R": [
+   "●",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "learned conventions (MARL; incl. LLM task)",
+  "B": "multiple cooperative principals",
+  "C": "n/a",
+  "D": "cross-play (unseen, heterogeneous partners)",
+  "comm": "AHT/ZSC"
+ },
+ {
+  "key": "smith1980contractnet",
+  "work": "Contract Net Protocol",
+  "year": "1980",
+  "R": [
+   "○",
+   "◐",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "protocol-mediated",
+  "B": "single principal (distributed problem solver)",
+  "C": "n/a",
+  "D": "none in abstract",
+  "comm": "Negotiation"
+ },
+ {
+  "key": "lewis2017dealnodeal",
+  "work": "Deal or No Deal?",
+  "year": "2017",
+  "R": [
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated (learned dialogue)",
+  "B": "multiple self-interested principals",
+  "C": "n/a",
+  "D": "unclear from abstract (human–human data)",
+  "comm": "Negotiation"
+ },
+ {
+  "key": "fair2022cicero",
+  "work": "CICERO (Diplomacy)",
+  "year": "2022",
+  "R": [
+   "●",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated + strategic planning",
+  "B": "multiple mutually untrusting (mixed-motive)",
+  "C": "n/a",
+  "D": "human-in-the-loop (anonymous online league)",
+  "comm": "Negotiation"
+ },
+ {
+  "key": "bianchi2024negotiationarena",
+  "work": "NegotiationArena",
+  "year": "2024",
+  "R": [
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "language-mediated",
+  "B": "multiple self-interested principals",
+  "C": "n/a",
+  "D": "cross-model (implied, e.g. vs GPT-4)",
+  "comm": "Negotiation"
+ },
+ {
+  "key": "abdelnabi2024stakeholders",
+  "work": "LLM-Stakeholders Interactive Negotiation",
+  "year": "2023",
+  "R": [
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "●"
+  ],
+  "A": "language-mediated",
+  "B": "multiple mutually untrusting (mixed-motive)",
+  "C": "n/a",
+  "D": "adversarial (greedy/adversarial players, attacks)",
+  "comm": "Negotiation"
+ },
+ {
+  "key": "davidson2024agency",
+  "work": "Evaluating LM Agency through Negotiations",
+  "year": "2024",
+  "R": [
+   "●",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated",
+  "B": "multiple self-interested principals",
+  "C": "n/a",
+  "D": "self-play + cross-play across six LMs (cross-vendor)",
+  "comm": "Negotiation"
+ },
+ {
+  "key": "bansal2025marketplace",
+  "work": "Magentic Marketplace",
+  "year": "2025",
+  "R": [
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "●"
+  ],
+  "A": "market / mechanism design (LLM agents)",
+  "B": "multiple mutually untrusting (consumers vs. businesses)",
+  "C": "n/a",
+  "D": "adversarial (manipulation); multiple frontier models",
+  "comm": "Negotiation"
+ },
+ {
+  "key": "wu2023autogen",
+  "work": "AutoGen",
+  "year": "2023",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated (conversation programming)",
+  "B": "single principal",
+  "C": "n/a",
+  "D": "single-system application benchmarks",
+  "comm": "LLM-MAS frameworks/benchmarks"
+ },
+ {
+  "key": "li2023camel",
+  "work": "CAMEL",
+  "year": "2023",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated (role-playing)",
+  "B": "single principal",
+  "C": "n/a",
+  "D": "self-play (role-play)",
+  "comm": "LLM-MAS frameworks/benchmarks"
+ },
+ {
+  "key": "hong2023metagpt",
+  "work": "MetaGPT",
+  "year": "2023",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated (SOP workflows)",
+  "B": "single principal",
+  "C": "n/a",
+  "D": "single-system benchmarks",
+  "comm": "LLM-MAS frameworks/benchmarks"
+ },
+ {
+  "key": "fourney2024magenticone",
+  "work": "Magentic-One",
+  "year": "2024",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated (orchestrator)",
+  "B": "single principal",
+  "C": "n/a",
+  "D": "single-system benchmarks (GAIA, AssistantBench, WebArena)",
+  "comm": "LLM-MAS frameworks/benchmarks"
+ },
+ {
+  "key": "zhu2025multiagentbench",
+  "work": "MultiAgentBench",
+  "year": "2025",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated (topologies)",
+  "B": "single principal (collab. + competition scenarios)",
+  "C": "n/a",
+  "D": "self-play (per-model teams)",
+  "comm": "LLM-MAS frameworks/benchmarks"
+ },
+ {
+  "key": "shao2024cogym",
+  "work": "Collaborative Gym",
+  "year": "2024",
+  "R": [
+   "●",
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated (human–agent)",
+  "B": "single principal (human user + agent)",
+  "C": "n/a",
+  "D": "human-in-the-loop (simulated + real users)",
+  "comm": "LLM-MAS frameworks/benchmarks"
+ },
+ {
+  "key": "leibo2021meltingpot",
+  "work": "Melting Pot",
+  "year": "2021",
+  "R": [
+   "●",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "learned conventions (MARL)",
+  "B": "multiple mutually untrusting (mixed-motive social dilemmas)",
+  "C": "n/a",
+  "D": "cross-play (novel test scenarios / co-players)",
+  "comm": "LLM-MAS frameworks/benchmarks"
+ },
+ {
+  "key": "vezhnevets2023concordia",
+  "work": "Concordia",
+  "year": "2023",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated (GABM; Game Master)",
+  "B": "n/a (simulation library)",
+  "C": "n/a",
+  "D": "n/a (library)",
+  "comm": "LLM-MAS frameworks/benchmarks"
+ },
+ {
+  "key": "smith2025concordiagen",
+  "work": "Concordia generalization (NeurIPS 2025 D&B)",
+  "year": "2025",
+  "R": [
+   "●",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "language-mediated",
+  "B": "multiple mutually untrusting (mixed-motive)",
+  "C": "n/a",
+  "D": "cross-play (contest; zero-shot, diverse partners)",
+  "comm": "LLM-MAS frameworks/benchmarks"
+ },
+ {
+  "key": "tewolde2026coopeval",
+  "work": "CoopEval",
+  "year": "2026",
+  "R": [
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "market / mechanism design (repetition, reputation, mediation, contracts)",
+  "B": "multiple mutually untrusting (mixed-motive)",
+  "C": "n/a",
+  "D": "varied co-players; evolutionary pressure",
+  "comm": "LLM-MAS frameworks/benchmarks"
+ },
+ {
+  "key": "cemri2025mast",
+  "work": "MAST failure taxonomy",
+  "year": "2025",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "language-mediated (7 MAS frameworks analysed)",
+  "B": "single principal",
+  "C": "n/a",
+  "D": "n/a (trace analysis)",
+  "comm": "LLM-MAS frameworks/benchmarks"
+ },
+ {
+  "key": "kaliyev2026noisefloor",
+  "work": "Paired Noise-Floor Protocol",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "protocol-mediated substrate (MCP-conformant store)",
+  "B": "single principal",
+  "C": "n/a",
+  "D": "self-play (single model, Claude Haiku 4.5)",
+  "comm": "LLM-MAS frameworks/benchmarks"
+ },
+ {
+  "key": "anthropic2024mcp",
+  "work": "Model Context Protocol (MCP) announcement",
+  "year": "2024",
+  "R": [
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "Protocol-mediated (client-server, agent-to-tool/data)",
+  "B": "Single principal (host app connects to data-owner servers)",
+  "C": "Unspecified in source (\"secure, two-way connections\")",
+  "D": "None (spec/announcement)",
+  "comm": "Protocols"
+ },
+ {
+  "key": "google2025a2a",
+  "work": "Agent2Agent Protocol (A2A) announcement",
+  "year": "2025",
+  "R": [
+   "◐",
+   "◐",
+   "◐",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○"
+  ],
+  "A": "Protocol-mediated (task lifecycle, Agent Cards)",
+  "B": "Multiple cooperative principals (agents from different vendors/frameworks)",
+  "C": "Centralized IAM (\"parity with OpenAPI auth schemes\")",
+  "D": "None (spec/announcement)",
+  "comm": "Protocols"
+ },
+ {
+  "key": "beeai2025acp",
+  "work": "Agent Communication Protocol (ACP; merged into A2A)",
+  "year": "2025",
+  "R": [
+   "◐",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○"
+  ],
+  "A": "Protocol-mediated (RESTful, sync/async, Await)",
+  "B": "Multiple cooperative principals (inter-company use case)",
+  "C": "Unspecified (no authentication described)",
+  "D": "None (spec)",
+  "comm": "Protocols"
+ },
+ {
+  "key": "chang2025anp",
+  "work": "Agent Network Protocol (ANP) white paper",
+  "year": "2025",
+  "R": [
+   "◐",
+   "◐",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "Protocol-mediated (three-layer: identity, meta-protocol, application)",
+  "B": "Multiple principals on open Agentic Web (trust via identity authentication)",
+  "C": "Decentralized identity (DIDs per ehtesham2025survey; ANP abstract says \"identity and encrypted communication layer\")",
+  "D": "None (white paper)",
+  "comm": "Protocols"
+ },
+ {
+  "key": "ehtesham2025survey",
+  "work": "Ehtesham et al., survey of MCP/ACP/A2A/ANP",
+  "year": "2025",
+  "R": [
+   "◐",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "Protocol-mediated (survey)",
+  "B": "Mixed (surveyed protocols)",
+  "C": "Compares security models (role-based, DIDs)",
+  "D": "None (survey)",
+  "comm": "Protocols"
+ },
+ {
+  "key": "sander2026taxonomy",
+  "work": "Sander et al., technical taxonomy of agent communication protocols",
+  "year": "2026",
+  "R": [
+   "◐",
+   "◐",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "Protocol-mediated (taxonomy of 9 protocols)",
+  "B": "N/A (taxonomy)",
+  "C": "N/A",
+  "D": "None (taxonomy)",
+  "comm": "Protocols"
+ },
+ {
+  "key": "krishnan2026unified",
+  "work": "Unified Agent Communication Protocol (ACP) for A2A orchestration",
+  "year": "2026",
+  "R": [
+   "◐",
+   "◐",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "Protocol-mediated (federated orchestration)",
+  "B": "Multiple principals, federated, \"zero-trust posture\"",
+  "C": "Decentralized identity verification",
+  "D": "Latency evaluation only (partner regime not stated)",
+  "comm": "Protocols"
+ },
+ {
+  "key": "du2025internet",
+  "work": "Du et al., agent communication from Internet-architecture perspective",
+  "year": "2025",
+  "R": [
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "Protocol-mediated (perspective)",
+  "B": "N/A (position)",
+  "C": "N/A",
+  "D": "None (perspective)",
+  "comm": "Protocols"
+ },
+ {
+  "key": "south2025authenticated",
+  "work": "Authenticated Delegation and Authorized AI Agents",
+  "year": "2025",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "◐",
+   "○"
+  ],
+  "A": "N/A (delegation infrastructure)",
+  "B": "Single principal (human user delegating to agent)",
+  "C": "Centralized IAM (OAuth 2.0/OIDC extended with agent credentials)",
+  "D": "None (framework proposal)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "zouari2025agentic",
+  "work": "Zouari, Toward Agentic IAM (probabilistic least-privilege)",
+  "year": "2025",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "Pipeline of specialized IAM agents (Analyze/Impact/Minimize/Validate/Reanalyze)",
+  "B": "Single principal (one organization)",
+  "C": "Centralized IAM (cloud IAM; AWS Lambda case)",
+  "D": "Formal analysis + single-org case study",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "huang2025ans",
+  "work": "Agent Name Service (ANS)",
+  "year": "2025",
+  "R": [
+   "◐",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "Protocol-mediated (directory; adapters for A2A/MCP/ACP)",
+  "B": "Multiple principals, public registry",
+  "C": "PKI certificates (CA-anchored identity)",
+  "D": "None (design + threat analysis)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "huang2025zerotrust",
+  "work": "Zero-Trust Identity Framework for Agentic AI",
+  "year": "2025",
+  "R": [
+   "◐",
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "◐",
+   "◐"
+  ],
+  "A": "Protocol-agnostic identity/policy layer",
+  "B": "Multiple mutually untrusting principals (zero-trust)",
+  "C": "Decentralized identity (DIDs + VCs, ZKPs)",
+  "D": "None (architecture)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "nagabhushanaradhya2025oidca",
+  "work": "OpenID Connect for Agents (OIDC-A) 1.0",
+  "year": "2025",
+  "R": [
+   "○",
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "◐",
+   "○"
+  ],
+  "A": "N/A (identity spec, agent-to-service)",
+  "B": "Single principal (agent acting for user toward services)",
+  "C": "Centralized IAM (OAuth 2.0/OIDC extension)",
+  "D": "None (spec)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "lee2024prompt",
+  "work": "Prompt Infection: LLM-to-LLM prompt injection",
+  "year": "2024",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "●"
+  ],
+  "A": "Language-mediated (LLM MAS)",
+  "B": "Single principal (one MAS)",
+  "C": "None",
+  "D": "Adversarial (self-built MAS)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "an2026aciarena",
+  "work": "ACIArena: agent cascading injection benchmark",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "●"
+  ],
+  "A": "Language-mediated (six MAS implementations)",
+  "B": "Single principal",
+  "C": "None",
+  "D": "Adversarial benchmark (1,356 cases)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "lotfi2026a2abreak",
+  "work": "A2ABreak: systematic security analysis of A2A",
+  "year": "2026",
+  "R": [
+   "○",
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "●"
+  ],
+  "A": "Protocol-mediated (A2A)",
+  "B": "Multiple mutually untrusting principals (cross-organizational)",
+  "C": "A2A as specified (analyzed)",
+  "D": "Adversarial (formal FSM + expert review)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "zou2025blocka2a",
+  "work": "BlockA2A",
+  "year": "2025",
+  "R": [
+   "○",
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "●",
+   "●"
+  ],
+  "A": "Protocol-mediated (A2A extension)",
+  "B": "Multiple mutually untrusting principals (cross-domain, no central trust)",
+  "C": "Decentralized identity + blockchain (DIDs, smart contracts)",
+  "D": "Adversarial (prompt, communication, behavioral, systemic attacks)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "zheng2026agentrfc",
+  "work": "AgentRFC: security principles and conformance testing",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "◐",
+   "◐",
+   "●"
+  ],
+  "A": "Protocol-mediated (MCP, A2A, ANP, ACP)",
+  "B": "Multiple principals across trust boundaries",
+  "C": "N/A (analyzes protocol credential lifecycles)",
+  "D": "Adversarial (TLA+ model checking + SDK replay)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "anbiaee2026threat",
+  "work": "Threat modeling of MCP, A2A, Agora, ANP",
+  "year": "2026",
+  "R": [
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "Protocol-mediated (four protocols)",
+  "B": "Multiple principals (cross-organizational)",
+  "C": "N/A (analysis)",
+  "D": "Qualitative threat model + MCP measurement",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "xu2025trust",
+  "work": "The Trust Paradox in LLM MAS",
+  "year": "2025",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "Language-mediated (multiple orchestration frameworks)",
+  "B": "Parameterized inter-agent trust (principal structure not stated)",
+  "C": "None formal (trust-parameterized information sharing)",
+  "D": "Multi-backend empirical (no cross-vendor pairing stated)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "nipu2026trustgated",
+  "work": "Trust-Gated Capability Control",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "●"
+  ],
+  "A": "N/A (trust/authorization mechanism for LLM MAS)",
+  "B": "Untrusting peers (trust earned; principal structure not stated)",
+  "C": "Capability tokens (short-lived, revocable grants)",
+  "D": "Adversarial (formal proofs + numerical sleeper-adversary simulation)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "elhelou2026hybrid",
+  "work": "Hybrid Inspection and Task-Based Access Control (CASA)",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "N/A (agent tool authorization, multi-turn)",
+  "B": "Single principal (subject commissioning agent)",
+  "C": "Centralized IAM (authorization server + zero-trust interception layer)",
+  "D": "Dataset benchmark (relevant vs irrelevant tool calls)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "raza2025trism",
+  "work": "TRiSM for Agentic AI (review)",
+  "year": "2025",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐",
+   "◐"
+  ],
+  "A": "N/A (survey)",
+  "B": "N/A",
+  "C": "N/A",
+  "D": "None (survey)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "vargas_identity",
+  "work": "Vargas et al., agent-as-principal identity/authorization survey",
+  "year": "n.d.",
+  "R": [
+   "○",
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "N/A (survey)",
+  "B": "Multiple principals (delegation and peer-identity planes)",
+  "C": "Capability security / speaks-for delegation (surveyed)",
+  "D": "None (survey; 72 papers coded)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "mostafavi2026trustworthy",
+  "work": "Mostafavi, Trustworthy Agentic AI survey",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "◐",
+   "◐"
+  ],
+  "A": "N/A (survey)",
+  "B": "N/A",
+  "C": "Capability-Based Access Control (in proposed defense architecture)",
+  "D": "None (survey)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "forough2026confidential",
+  "work": "Confidential computing for agentic AI (survey)",
+  "year": "2026",
+  "R": [
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "N/A (survey)",
+  "B": "Multiple untrusting parties (pipelines no single party controls)",
+  "C": "Hardware attestation (TEEs) -- outside Axis C list",
+  "D": "None (survey)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "dafoe2020open",
+  "work": "Open Problems in Cooperative AI",
+  "year": "2020",
+  "R": [
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "N/A (research agenda)",
+  "B": "Multiple principals (mixed-motive cooperation)",
+  "C": "N/A",
+  "D": "None (agenda)",
+  "comm": "Governance/CoopAI"
+ },
+ {
+  "key": "hammond2025multiagent",
+  "work": "Multi-Agent Risks from Advanced AI",
+  "year": "2025",
+  "R": [
+   "◐",
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "N/A (risk taxonomy)",
+  "B": "Multiple mixed-motive principals",
+  "C": "N/A",
+  "D": "None (report)",
+  "comm": "Governance/CoopAI"
+ },
+ {
+  "key": "sourbut2024delegation",
+  "work": "Cooperation and Control in Delegation Games",
+  "year": "2024",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "Game-theoretic (mechanism/market design family)",
+  "B": "Multiple principals, each delegating to own agent",
+  "C": "N/A",
+  "D": "Formal analysis + empirical (synthetic games)",
+  "comm": "Governance/CoopAI"
+ },
+ {
+  "key": "tomasev2025virtual",
+  "work": "Virtual Agent Economies",
+  "year": "2025",
+  "R": [
+   "○",
+   "○",
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "◐",
+   "○"
+  ],
+  "A": "Market or mechanism design (auctions, mission economies)",
+  "B": "Multiple principals (agent markets)",
+  "C": "N/A",
+  "D": "None (position)",
+  "comm": "Governance/CoopAI"
+ },
+ {
+  "key": "tomasev2026intelligent",
+  "work": "Intelligent AI Delegation",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "◐",
+   "◐",
+   "○"
+  ],
+  "A": "Delegation framework (conceptual, for agentic-web protocols)",
+  "B": "Multiple principals (delegation networks)",
+  "C": "N/A (conceptual)",
+  "D": "None (framework)",
+  "comm": "Governance/CoopAI"
+ },
+ {
+  "key": "ruan2026agentcity",
+  "work": "AgentCity: constitutional governance (Separation of Power)",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐",
+   "◐",
+   "◐",
+   "○"
+  ],
+  "A": "Mechanism design / institutional (smart-contract legislation)",
+  "B": "Multiple mutually untrusting principals (cross-org, open internet)",
+  "C": "Blockchain (EVM L2 smart contracts, ownership chain)",
+  "D": "Pre-registered simulation, 50-1,000 agents (results not in abstract)",
+  "comm": "Governance/CoopAI"
+ },
+ {
+  "key": "yang2026multiuser",
+  "work": "Multi-User LLM Agents",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "Language-mediated (single agent, multi-user protocol)",
+  "B": "Multiple principals with conflicting interests (single agent)",
+  "C": "N/A",
+  "D": "Stress tests on frontier LLMs",
+  "comm": "Governance/CoopAI"
+ },
+ {
+  "key": "hu2025regulatory",
+  "work": "Regulatory multi-agent collaboration (blockchain architecture)",
+  "year": "2025",
+  "R": [
+   "○",
+   "◐",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "◐",
+   "◐"
+  ],
+  "A": "N/A (governance architecture)",
+  "B": "Multiple heterogeneous, potentially adversarial agents",
+  "C": "Blockchain (on-chain anchoring)",
+  "D": "None reported in abstract",
+  "comm": "Governance/CoopAI"
+ },
+ {
+  "key": "alonsoruiz2026bridging",
+  "work": "Bridging LLM agents and data spaces via MCP (Eunomia)",
+  "year": "2026",
+  "R": [
+   "◐",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "Protocol-mediated (MCP mediation layer)",
+  "B": "Multiple principals (sovereign cross-org data sharing)",
+  "C": "Data-space governance (via mediation; mechanism not detailed)",
+  "D": "Prototype functional validation",
+  "comm": "Data ecosystems"
+ },
+ {
+  "key": "zhong2025agentodrl",
+  "work": "AgentODRL: multi-agent ODRL generation",
+  "year": "2025",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "Language-mediated (orchestrator-workers)",
+  "B": "Single principal",
+  "C": "N/A (output is ODRL policy)",
+  "D": "Self-play (in-house MAS, 770 use cases)",
+  "comm": "Data ecosystems"
+ },
+ {
+  "key": "ren2026gatemem",
+  "work": "GateMem: memory governance benchmark",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "Language-mediated (shared-memory agent)",
+  "B": "Multiple principals sharing one memory pool",
+  "C": "Contextual role/scope-based access control",
+  "D": "Benchmark across backbones and memory methods",
+  "comm": "Data ecosystems"
+ },
+ {
+  "key": "johnson2026aim",
+  "work": "AIM: privacy-aware interoperable memory",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○"
+  ],
+  "A": "Language-mediated (shared memory)",
+  "B": "Multiple users (cooperative)",
+  "C": "Index-level access control (centralized)",
+  "D": "Benchmark (MUMBench, three runs)",
+  "comm": "Data ecosystems"
+ },
+ {
+  "key": "shukla2025multiagent",
+  "work": "Shukla & Parker, Multi-Agent Orchestration Protocol for GenAI",
+  "year": "2025",
+  "R": [
+   "○",
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "●",
+   "○"
+  ],
+  "A": "Protocol-mediated (central orchestrator)",
+  "B": "Single principal (central orchestrator)",
+  "C": "Centralized policy engine (GDPR/HIPAA rules) + Agent Registry",
+  "D": "Simulation (latency, compliance violations)",
+  "comm": "Data ecosystems"
+ },
+ {
+  "key": "syros2026saga",
+  "work": "SAGA: Security Architecture for Governing AI Agentic Systems",
+  "year": "2026",
+  "R": [
+   "◐",
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "◐",
+   "○",
+   "●"
+  ],
+  "A": "Protocol-mediated (Provider-mediated agent-to-agent protocol; A2A integration)",
+  "B": "Multiple principals (many users' agents) mediated by a trusted central Provider",
+  "C": "Centralized registry/Provider + cryptographic access-control tokens (DH-derived via one-time keys; expiring, quota-bounded)",
+  "D": "Adversarial (ProVerif proofs + 8 implemented attackers) + performance/scalability",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "abdelnabi2026firewalls",
+  "work": "Firewalls to Secure Dynamic LLM Agentic Networks",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "●"
+  ],
+  "A": "Language-mediated, with firewall-imposed structured protocol",
+  "B": "Two principals: user's assistant vs untrusted external service agent",
+  "C": "N/A (input/data firewalls; no authorization tokens)",
+  "D": "Adversarial (864 ConVerse attacks); self-play (same model in all roles)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "gomaa2025converse",
+  "work": "ConVerse: Contextual Safety in Agent-to-Agent Conversations",
+  "year": "2025",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "●"
+  ],
+  "A": "Language-mediated (multi-turn assistant-external agent dialogue)",
+  "B": "Two principals: user's assistant vs possibly malicious/compromised external agent",
+  "C": "None",
+  "D": "Adversarial benchmark (864 attacks, 7 assistant backends; external-agent model not stated)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "li2026a2asecbench",
+  "work": "A2ASecBench: Protocol-aware security benchmark for A2A MAS",
+  "year": "2026",
+  "R": [
+   "○",
+   "◐",
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "●"
+  ],
+  "A": "Protocol-mediated (A2A; transfer to LangGraph and ANP)",
+  "B": "Single deployment (Host + remote agents) with untrusted third-party agents/users",
+  "C": "A2A as deployed (web-security primitives; analyzed)",
+  "D": "Adversarial benchmark (6 attacks, 3 domains; NeMo Guardrails defense)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "zhu2025riskygame",
+  "work": "The Automated but Risky Game: A2A negotiation in consumer markets",
+  "year": "2025",
+  "R": [
+   "●",
+   "○",
+   "●",
+   "○",
+   "◐",
+   "○",
+   "○",
+   "◐"
+  ],
+  "A": "Language-mediated (alternating-offer price negotiation)",
+  "B": "Multiple principals with opposed interests (consumer buyer vs merchant seller)",
+  "C": "N/A (prompt-only budget/wholesale constraints)",
+  "D": "Cross-vendor (9-model round-robin incl. OpenAI, DeepSeek, Qwen)",
+  "comm": "Negotiation"
+ },
+ {
+  "key": "yang2026soksafeagents",
+  "work": "SoK: When Safe Agents Fail Together (MAS security)",
+  "year": "2026",
+  "R": [
+   "◐",
+   "◐",
+   "○",
+   "◐",
+   "◐",
+   "○",
+   "◐",
+   "◐"
+  ],
+  "A": "N/A (SoK; 197 works)",
+  "B": "N/A (SoK; MAS defined by separately addressable principals)",
+  "C": "Surveys identity/credential defenses (DIDs, SPIFFE, Agentic JWT)",
+  "D": "None (literature synthesis + audit of 44 benchmarks)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "ko2026sevenchallenges",
+  "work": "Seven Security Challenges in Cross-Domain Multi-Agent LLM Systems",
+  "year": "2026",
+  "R": [
+   "◐",
+   "◐",
+   "○",
+   "○",
+   "◐",
+   "◐",
+   "◐",
+   "◐"
+  ],
+  "A": "N/A (perspective)",
+  "B": "Multiple mutually untrusting principals (agents of different organizations, no central oversight)",
+  "C": "N/A (federated authentication suggested)",
+  "D": "None (proposed metrics only)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "motwani2024collusion",
+  "work": "Secret Collusion among AI Agents: Steganography",
+  "year": "2024",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐",
+   "○",
+   "●"
+  ],
+  "A": "Language-mediated (covert steganographic channels)",
+  "B": "Single principal (system designer/deployer; colluders vs trusted overseer)",
+  "C": "N/A",
+  "D": "Adversarial (formal threat model + CASE evals; same-model clones)",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "qian2026mpac",
+  "work": "MPAC",
+  "year": "2026",
+  "R": [
+   "◐",
+   "◐",
+   "○",
+   "◐",
+   "◐",
+   "●",
+   "◐",
+   "◐"
+  ],
+  "A": "protocol-mediated",
+  "B": "multiple principals",
+  "C": "centralized (coordinator, credential profiles)",
+  "D": "self-play (Claude only) + enforcement unit tests",
+  "comm": "Protocols"
+ },
+ {
+  "key": "veski2026capmas",
+  "work": "CAPMAS",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "●",
+   "○",
+   "○",
+   "●",
+   "◐"
+  ],
+  "A": "n/a (authorization layer)",
+  "B": "single principal / single trust domain",
+  "C": "capability-based (macaroons)",
+  "D": "micro-benchmarks; no attack eval",
+  "comm": "Security/identity/delegation"
+ },
+ {
+  "key": "kang2026governance",
+  "work": "Governance Gaps",
+  "year": "2026",
+  "R": [
+   "○",
+   "○",
+   "○",
+   "○",
+   "◐",
+   "◐",
+   "◐",
+   "○"
+  ],
+  "A": "protocol analysis",
+  "B": "multiple principals (conceptual)",
+  "C": "n/a",
+  "D": "none (spec analysis)",
+  "comm": "Protocols"
+ }
+]
